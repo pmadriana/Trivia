@@ -1,5 +1,5 @@
 //VERSIÓN CORREGIDA
-alert("hola")
+alert("hola como estas")
 // Declaración de preguntas
 var preguntas = [
     "¿Con qué frecuencia realizas deporte?<br><hr>Considera como deporte cualquier actividad que acelere tu ritmo cardiaco, como caminar rápido, andar en bicicleta, bailar o, por supuesto, practicar un deporte.",
